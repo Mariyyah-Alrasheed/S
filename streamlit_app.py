@@ -10,9 +10,9 @@ import requests
 
 
 
-logo = "./image-removebg-preview (1).png"
+# logo = "./image-removebg-preview (1).png"
 
-st.sidebar.image(logo)
+# st.sidebar.image(logo)
 
 
 os.makedirs("./uploaded_files/original/", exist_ok=True)
